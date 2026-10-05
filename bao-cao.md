@@ -1,4 +1,4 @@
-﻿# Báo cáo thực hành LAB_1: Phân tích hệ thống nhận dạng vân tay (AFIS)
+# Báo cáo thực hành LAB_1: Phân tích hệ thống nhận dạng vân tay (AFIS)
 
 Học phần 04211 Bảo mật sinh trắc, lớp 2610421101, học kỳ 1 năm học 2026-2027.
 
@@ -154,4 +154,4 @@ Công cụ AI: Đã khai báo trong `AI-SUDUNG.md`.
 
 Tôi cam kết các kết quả trong báo cáo này do chính tôi chạy trên máy của mình, các phần sử dụng lại của người khác đã được ghi nguồn đầy đủ.
 
-Nguyễn Đoàn Huỳnh Hương, ngày 23/09/2026
+Nguyễn Đoàn Huỳnh Hương, ngày 23/09/2026 (cập nhật hoàn thiện 05/10/2026)
